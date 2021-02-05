@@ -1,1 +1,1 @@
-A few lines of text, to test Git-GitHub connection.
+This sentence was formed on GitHub!
