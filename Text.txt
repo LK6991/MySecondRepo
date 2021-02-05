@@ -1,1 +1,2 @@
 This sentence was formed on GitHub!
+The second sentence was formed on Notepad.
